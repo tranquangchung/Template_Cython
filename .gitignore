@@ -1,0 +1,14 @@
+lib_c/main
+build
+*.so
+*.o
+./*.cpp
+__pycache__
+*.pyc
+*.pyo
+*.swn
+*.swp
+*.swo
+*.swm
+.nfs*
+.DS_Store
